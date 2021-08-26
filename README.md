@@ -2,6 +2,6 @@
 #### Repo: 4663 Crypto
 #### Email: jameskohler1893@gmail.com
 #### Image:
-![James Kohler](/images/j.jpg)
+![James Kohler](https://raw.githubusercontent.com/j-imbo/4663-Cryptography-Kohler/master/images/j.jpg)
 #### Avatar:
-![Avatar](images/purplink.png)
+![Avatar](https://raw.githubusercontent.com/j-imbo/4663-Cryptography-Kohler/master/images/purplink.png)
