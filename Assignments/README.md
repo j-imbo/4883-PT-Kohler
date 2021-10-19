@@ -1,8 +1,8 @@
 ##  Assignments
 
-| # | Folder Link | Assignment Description |
-| :-: | - | - |
-| 1 | [P10055](./P10055)| Hashmat the Warrior |
+|#|Folder Link|Assignment Description|
+|:-:|-|-|
+|1|[P10055](./P10055)|Hashmat the Warrior|
 |2|[P161](./P161)|Traffic Lights|
 |3|[P10038](./P10038)|Jolly Jumpers|
 |4|[P11080](./P11080)|Place The Guards|
@@ -11,4 +11,5 @@
 |7|[P10017](./P10017)|The Never Ending Towers of Hanoi|
 |8|[P900](./P900)|Brick Wall Patterns|
 |9|[P920](./P920)|Sunny Mountains|
-|8|[P108](./P108)|Maximum Sum|
+|10|[P108](./P108)|Maximum Sum|
+|11|[P1112](./P1112)|Mice and Maze|
