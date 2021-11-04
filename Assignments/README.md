@@ -13,3 +13,6 @@
 |9|[P920](./P920)|Sunny Mountains|
 |10|[P108](./P108)|Maximum Sum|
 |11|[P1112](./P1112)|Mice and Maze|
+|12|[P11727](./P11727)|Cost Cutting|
+|13|[P11764](./P11764)|Jumping Mario|
+|14|[P11799](./P11799)|Horror Dash|
